@@ -1,0 +1,11 @@
+/.idea
+
+/vendor
+/composer.lock
+
+/tests/tmp
+/coverage.*
+*.log
+*.html
+*.expected
+*.actual
